@@ -6,9 +6,9 @@
 <b>DATA SOURCES:</b><br>
 
 * John Hopkins (JH CSSE): https://github.com/CSSEGISandData/COVID-19<br>
-*  NYC.gov https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf  <br>
+*  NYC.gov: https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf  <br>
 
-<b>HOW TO USE </b><br>
+<b>HOW TO USE: </b><br>
  All you need to do is pull down the https://github.com/jakemathai/COVID19-OREGON/blob/master/COVID-NewDataFormat.ipynb jupyter notebook and it should just run.
  
  <b>HELP US:</b><br>
@@ -16,7 +16,7 @@
 If you have detailed data for Oregon like NYC (see link) https://www1.nyc.gov/assets/doh/downloads/pdf/imm/covid-19-daily-data-summary.pdf, I would be very interested with working with you and this data. See contact details below.
 
 <b>CONTACT : </b><br>
-*Email: jakemathai@gmail.com <br>
+* Email: jakemathai@gmail.com <br>
 
 Good luck everybody & be safe.
 
